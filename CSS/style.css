@@ -1,6 +1,6 @@
 /* Surcharge les règles contenant un élément html */
 body {
-	background-image: url('background_Accueil');
+	background-image: url('/image/background_Accueil.jpg');
 	background-position: center center;
 	background-size: 100%;
 	background-repeat: no-repeat;
