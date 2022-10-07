@@ -1,9 +1,9 @@
 /* Surcharge les règles contenant un élément html */
 body {
-	background-image: None;
+	background-image: url('image/background_Accueil');
 	background-position: center center;
 	background-size: 100%;
-	background-repeat: repeat;
+	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
 
