@@ -24,8 +24,8 @@ li {
 	color: rgb(60,60,60);
 }
 btn {
-    border-color: white;
-    border-width: 2px,2px
+    border-color: black;
+    border-width: 4px,4px
 }
 /* Surcharge les grands blocs */
 .main-content {
