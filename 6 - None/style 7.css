@@ -1,0 +1,69 @@
+body {
+	background-image: url('IMAGES/background_Accueil.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+h1 {
+	
+	color:red;
+    font-weight: 5000;
+    margin-bottom: 2rem;
+}
+
+h2 {
+	color: black;
+    font-weight: 5000;
+    margin-bottom: 2rem;
+}
+
+li {
+	color: rgb(60,60,60);
+}
+btn {
+    border-color: black;
+    border-width: 4px,4px
+}
+/* Surcharge les grands blocs */
+.main-content {
+    background-color: #FAF9F8;
+}
+.information {
+    margin-bottom: 1.5rem;
+}
+.resultat {
+    background-color: aliceblue;
+    margin-top: 2rem;
+    padding: 1rem;
+}
+.resultat h3 {
+    margin: 2rem auto;
+}
+.resultat h3:first-child{
+    margin-top: 0;
+}
+footer .container {
+    background-color: inherit;
+}
+footer a, footer a:hover {
+    color: white;
+}
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Surcharge des éléments Bootstrap */
+.navbar {
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
+}
+.btn-block {
+    margin-top: 2rem;
+}
+.container {
+    background-color: None;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
